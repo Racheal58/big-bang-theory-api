@@ -1,1 +1,4 @@
 node_modules
+
+//For ignoring envirnomnet variables
+.env
